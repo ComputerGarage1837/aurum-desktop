@@ -1,0 +1,25 @@
+{
+    "Name":  "Computer Garage",
+    "Phone":  "705-933-4016",
+    "Website":  "www.computergarage.ca",
+    "Email":  "dylan@computergarage.ca",
+    "Address":  "112 Queen St., Lakefield, ON K0L 2H0",
+    "HoursList":  [
+                      {
+                          "Day":  "Monday - Friday",
+                          "Time":  "10:00 AM - 5:00 PM"
+                      },
+                      {
+                          "Day":  "Saturday",
+                          "Time":  "10:00 AM - 1:00 PM"
+                      },
+                      {
+                          "Day":  "Sunday",
+                          "Time":  "Closed"
+                      }
+                  ],
+    "HolidayHours":  [
+
+                     ],
+    "Message":  "Call or visit us any time you need a hand. We are happy to help!"
+}
