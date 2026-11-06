@@ -1,6 +1,6 @@
 {
-    "Version":  "1.1.0",
-    "Notes":  "First release with updater, holiday hours and App Sizing",
-    "AppSha256":  "86b98926332da602e4aa1b3abe3b23de6f2407d438883adf8440796abbbabaad",
-    "Released":  "2026-11-04"
+    "Version":  "1.1.1",
+    "Notes":  "Long shortcut names now show in full",
+    "AppSha256":  "c7411f24168bc3e59654148ebda45c1055bbad5ead171c07b7cc17c0355379ec",
+    "Released":  "2026-11-06"
 }
